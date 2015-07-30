@@ -1,0 +1,52 @@
+{
+    "colors": {
+        "red": {
+            "zh":"红色",
+            "hex":"#f44336"
+        },
+        "orange": {
+            "zh":"橙色",
+            "hex":"#ff9800"
+        },
+        "yellow": {
+            "zh":"黄色",
+            "hex":"#ffc700"
+        },
+        "blue": {
+            "zh":"蓝色",
+            "hex":"#2196f3"
+        }
+    },
+    "warnings": [{
+        "weather": "暴雨",
+        "weather_en": "RAIN STORM",
+        "weather_icon": "meteocons_svg/18.svg",
+        "colors": ["red", "orange", "yellow", "blue"]
+    }, {
+        "weather": "高温",
+        "weather_en": "HEAT WAVE",
+        "weather_icon": "meteocons_svg/43.svg",
+        "colors": ["red", "orange", "yellow", "blue"]
+    }, {
+        "weather": "暴雪",
+        "weather_en": "SNOW STORM",
+        "weather_icon": "meteocons_svg/23.svg",
+        "colors": ["red", "orange", "yellow", "blue"]
+    }, {
+        "weather": "大风",
+        "weather_en": "GALE",
+        "weather_icon": "meteocons_svg/6.svg",
+        "colors": ["red", "orange", "yellow", "blue"]
+    }, {
+        "weather": "大雾",
+        "weather_en": "HEAVY FOG",
+        "weather_icon": "meteocons_svg/13.svg",
+        "colors": ["red", "orange", "yellow", "blue"]
+    }, {
+        "weather": "闪电",
+        "weather_en": "LIGHTNING",
+        "weather_icon": "meteocons_svg/16.svg",
+        "colors": ["red", "orange", "yellow", "blue"]
+    }]
+
+}
