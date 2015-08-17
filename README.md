@@ -11,7 +11,7 @@ See http://www.cma.gov.cn/2011zwxx/2011zflfg/2011zgfxwj/201110/t20111027_134927.
 
 ## 暴雪
 
-[暴雪](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/SNOWSTORM_red.png)
+![暴雪](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/SNOWSTORM_red.png)
 
 ## 寒潮
 ## 大风
@@ -19,13 +19,13 @@ See http://www.cma.gov.cn/2011zwxx/2011zflfg/2011zgfxwj/201110/t20111027_134927.
 ## 高温
 ## 雷电
 
-[雷电](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/LIGHTNING_red.png)
+![雷电](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/LIGHTNING_red.png)
 
 ## 冰雹
 ## 霜冻
 ## 大雾
 
-[大雾](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HEAVYFOG_red.png)
+![大雾](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HEAVYFOG_red.png)
 
 ## 霾
 ## 道路结冰
