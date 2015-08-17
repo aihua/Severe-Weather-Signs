@@ -3,9 +3,8 @@ from xml.dom.minidom import parse
 import xml.dom.minidom
 from string import Template
 import json
-import cairocffi as cairo
-import cairosvg
-
+import subprocess
+import os
 
 file_warning = open( 'warnings.json')
 warnings = json.loads(file_warning.read(  ).decode('utf8'))
@@ -25,11 +24,19 @@ for warning in warnings['warnings']:
         d = {\
         'color_hex': color_mapping[color]['hex'], \
         'color_text': color_mapping[color]['zh'] + u'预警', \
-        'weather':warning['weather'],\
+        'weather': warning['weather'],\
         'weather_en': warning['weather_en'],\
         'weather_icon_path': icon_path\
         }
         svg_src = src.substitute(d).encode('utf8');
-        output = open(output_path_svg,'w')
-        output.write(svg_src)
-        cairosvg.svg2png(bytestring=svg_src, write_to=output_path_png)
+        with open(output_path_svg, "wb") as outputFile:
+            outputFile.write(svg_src)
+            print "SVG Output Done"
+        command = ['./content-screenshot/contentScreenshot.py', os.path.abspath(output_path_svg), os.path.abspath(output_path_png)]
+        p = subprocess.Popen(command, shell = False, stdout = subprocess.PIPE,
+                             stderr = subprocess.PIPE)
+        stdout, stderr = p.communicate()
+        if (stdout.startswith("Done")):
+            print "SVG Convert Done"
+        else:
+            print stderr

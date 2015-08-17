@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <svg xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512" height="512" width="512">
+        <rect y="0" x="0" rx="2" ry="2" height="512" width="512" id="rect-doc" style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <text id="color0" y="112" x="32" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:STHeiti;text-align:start;letter-spacing:8px;word-spacing:0;writing-mode:lr-tb;text-anchor:left;fill:#ffffff;fill-opacity:1;stroke:none;">闪电</text>
+        <text id="color1" y="228" x="32" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:STHeiti;text-align:start;word-spacing:0;writing-mode:lr-tb;text-anchor:lfet;fill:#ffffff;fill-opacity:1;stroke:none;">蓝色预警</text>
+        <text id="en" y="464" x="48" font-size='32px'  fill="#ffffff" fill-opacity="1" stroke="none" font-family='Helvetica Neue' style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;word-spacing:0;writing-mode:lr-tb;text-anchor:left;">LIGHTNING</text>
+        <path style="stroke:#000000;stroke-width:1px;stroke-opacity:0.1" d="M0,384 L512,384" />
+        <g transform="translate(368,400) scale(0.2)">
+            <path fill="#ffffff" d="M400,64c-5.312,0-10.562,0.375-15.792,1.125C354.334,24.417,307.188,0,256,0    c-51.188,0-98.312,24.417-128.208,65.125C122.562,64.375,117.312,64,112,64C50.25,64,0,114.25,0,176s50.25,112,112,112    c13.688,0,27.084-2.5,39.709-7.333c12.291,10.708,26.25,18.958,40.916,25.416l24.916-24.874    c-23.458-7.626-44.166-21.271-59.604-39.876C144.938,250.5,129.125,256,112,256c-44.188,0-80-35.812-80-80s35.812-80,80-80    c10.812,0,21.062,2.208,30.438,6.083C163.667,60.667,206.291,32,256,32s92.334,28.667,113.541,70.083    C378.938,98.208,389.209,96,400,96c44.188,0,80,35.812,80,80s-35.812,80-80,80c-17.125,0-32.916-5.5-45.938-14.667    c-10.375,12.521-23.312,22.667-37.625,30.584L303,312.25c20.875-6.562,40.5-16.938,57.291-31.583    C372.916,285.5,386.312,288,400,288c61.75,0,112-50.25,112-112S461.75,64,400,64z M192,352l32,32l-32,96l96-96l-32-32l32-96    L192,352z" />
+        </g>
+    </svg>

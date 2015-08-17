@@ -1,0 +1,3 @@
+[submodule "generate/content-screenshot"]
+	path = generate/content-screenshot
+	url = git@github.com:shevawen/content-screenshot.git
