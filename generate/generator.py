@@ -15,7 +15,7 @@ svg_tpl = open( 'template.svg.txt' )
 src = Template( svg_tpl.read() )
 
 for warning in warnings['warnings']:
-    icon_svg_dom = xml.dom.minidom.parse(warning['weather_icon'])
+    icon_svg_dom = xml.dom.minidom.parse(warnings['iconset'] + '/' + warning['weather_en'].replace(' ','') + '_icon.svg')
     icon_path = icon_svg_dom.getElementsByTagName('path')[0].getAttributeNode('d').nodeValue
     for color in warning['colors']:
         output_path_temp = '../set1/{format}/' + warning['weather_en'].replace(' ','') + '_' + color + '.{format}'

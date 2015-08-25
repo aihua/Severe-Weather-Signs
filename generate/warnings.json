@@ -17,36 +17,51 @@
             "hex":"#2196f3"
         }
     },
+    "iconset": "icon_set1",
     "warnings": [{
         "weather": "暴雨",
         "weather_en": "RAIN STORM",
-        "weather_icon": "meteocons_svg/18.svg",
-        "colors": ["red", "orange", "yellow", "blue"]
+        "colors": ["red", "orange", "yellow"]
     }, {
         "weather": "高温",
         "weather_en": "HEAT WAVE",
-        "weather_icon": "meteocons_svg/43.svg",
-        "colors": ["red", "orange", "yellow", "blue"]
+        "colors": ["red", "orange"]
+    }, {
+        "weather": "寒潮",
+        "weather_en": "COLD WAVE",
+        "colors": ["red", "orange", "yellow"]
     }, {
         "weather": "暴雪",
         "weather_en": "SNOW STORM",
-        "weather_icon": "meteocons_svg/23.svg",
-        "colors": ["red", "orange", "yellow", "blue"]
+        "colors": ["red", "orange", "yellow"]
     }, {
         "weather": "大风",
         "weather_en": "GALE",
-        "weather_icon": "meteocons_svg/6.svg",
         "colors": ["red", "orange", "yellow", "blue"]
     }, {
         "weather": "大雾",
         "weather_en": "HEAVY FOG",
-        "weather_icon": "meteocons_svg/13.svg",
-        "colors": ["red", "orange", "yellow", "blue"]
+        "colors": ["red", "orange", "yellow"]
     }, {
         "weather": "闪电",
         "weather_en": "LIGHTNING",
-        "weather_icon": "meteocons_svg/16.svg",
         "colors": ["red", "orange", "yellow", "blue"]
+    }, {
+        "weather": "道路结冰",
+        "weather_en": "ROAD ICING",
+        "colors": ["red", "orange", "yellow"]
+    }, {
+        "weather": "沙尘暴",
+        "weather_en": "SAND STORM",
+        "colors": ["red", "orange", "yellow"]
+    }, {
+        "weather": "台风",
+        "weather_en": "TYPHOON",
+        "colors": ["red", "orange", "yellow", "blue"]
+    }, {
+        "weather": "冰雹",
+        "weather_en": "HAIL",
+        "colors": ["red", "orange"]
     }]
 
 }
