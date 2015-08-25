@@ -43,7 +43,7 @@
         "weather_en": "HEAVY FOG",
         "colors": ["red", "orange", "yellow"]
     }, {
-        "weather": "闪电",
+        "weather": "雷电",
         "weather_en": "LIGHTNING",
         "colors": ["red", "orange", "yellow", "blue"]
     }, {
