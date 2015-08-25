@@ -64,7 +64,7 @@ SVG 文件使用 Adobe Illustrator 制作输出。
 
 ## Thanks
 
-(progers/content-screenshot)[https://github.com/progers/content-screenshot]
+[progers/content-screenshot](https://github.com/progers/content-screenshot)
 
 
 Working in progress.
