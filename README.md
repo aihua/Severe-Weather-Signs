@@ -27,7 +27,7 @@ See http://www.cma.gov.cn/2011zwxx/2011zflfg/2011zgfxwj/201110/t20111027_134927.
 
 ## 高温
 
-![高温](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HEATSTORM_red.png)
+![高温](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HEATWAVE_red.png)
 
 ## 雷电
 
