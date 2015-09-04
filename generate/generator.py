@@ -32,11 +32,11 @@ for warning in warnings['warnings']:
         with open(output_path_svg, "wb") as outputFile:
             outputFile.write(svg_src)
             print "SVG Output Done"
-        command = ['./content-screenshot/contentScreenshot.py', os.path.abspath(output_path_svg), os.path.abspath(output_path_png)]
+        command = ['phantomjs', 'rasterize.js', os.path.abspath(output_path_svg), os.path.abspath(output_path_png)]
         p = subprocess.Popen(command, shell = False, stdout = subprocess.PIPE,
                              stderr = subprocess.PIPE)
         stdout, stderr = p.communicate()
-        if (stdout.startswith("Done")):
-            print "SVG Convert Done"
-        else:
-            print stderr
+	if len(stdout) == 0:
+		print "PNG Output Done"		
+	else:
+		print stdout
