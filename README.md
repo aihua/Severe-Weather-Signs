@@ -1,5 +1,5 @@
 # Emergent-Meteorological-Disaster-Warning-Sgnal-Icon
-An icon set using Google Material Design. An unoffical version of the CMA's icon set.
+An icon set follows Google Material Design Guidelines. An unoffical version of the CMA's icon set.
 
 See http://www.cma.gov.cn/2011zwxx/2011zflfg/2011zgfxwj/201110/t20111027_134927.html
 
@@ -60,11 +60,15 @@ SVG 文件使用 Adobe Illustrator 制作输出。
 ## 关于生成器
 
 源文件中包括一个 python 写的生成器，可以基于模板生成图标。
-利用了 Chromium 中的 Blink-based 渲染器来讲 SVG 转化为 PNG。
+利用了 phantomjs 将 SVG 转化为 PNG ，所以要先安装 phantomjs 。
+
+```shell
+npm install phantomjs -g
+```
 
 ## Thanks
 
 [progers/content-screenshot](https://github.com/progers/content-screenshot)
-
+[Medium/phantomjs](https://github.com/Medium/phantomjs)
 
 Working in progress.
