@@ -69,6 +69,7 @@ npm install phantomjs -g
 ## Thanks
 
 [progers/content-screenshot](https://github.com/progers/content-screenshot)
+
 [Medium/phantomjs](https://github.com/Medium/phantomjs)
 
 Working in progress.
