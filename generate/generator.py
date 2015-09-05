@@ -32,7 +32,7 @@ for warning in warnings['warnings']:
         with open(output_path_svg, "wb") as outputFile:
             outputFile.write(svg_src)
             print "SVG Output Done"
-        command = ['phantomjs', 'rasterize.js', os.path.abspath(output_path_svg), os.path.abspath(output_path_png)]
+        command = ['phantomjs', 'rasterize.js', os.path.abspath(output_path_svg), os.path.abspath(output_path_png), '256px*256px', '0.5']
         p = subprocess.Popen(command, shell = False, stdout = subprocess.PIPE,
                              stderr = subprocess.PIPE)
         stdout, stderr = p.communicate()
