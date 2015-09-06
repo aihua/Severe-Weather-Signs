@@ -55,7 +55,12 @@ See http://www.cma.gov.cn/2011zwxx/2011zflfg/2011zgfxwj/201110/t20111027_134927.
 ## 关于图标设计
 
 对于 CMA 设计中专业性比较强的几个图标做了调整，使图标的传达性更好。
-SVG 文件使用 Adobe Illustrator 制作输出。
+Icon SVG 文件使用 Adobe Illustrator 制作输出。
+
+## 关于字体
+
+中文: Source Han Sans CN [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans)
+English: Roboto [google/roboto](https://github.com/google/roboto)
 
 ## 关于生成器
 
