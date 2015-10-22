@@ -9,47 +9,48 @@ See http://www.cma.gov.cn/2011zwxx/2011zflfg/2011zgfxwj/201110/t20111027_134927.
 
 ### 暴雨
 
-![暴雨](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/RAINSTORM_red.png)
+![暴雨](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/RAINSTORM_red.png)
+
 
 ### 暴雪
 
-![暴雪](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/SNOWSTORM_red.png)
+![暴雪](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/SNOWSTORM_red.png)
 
 ### 寒潮
 
-![寒潮](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/COLDWAVE_red.png)
+![寒潮](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/COLDWAVE_red.png)
 
 ### 大风
 
-![大风](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/GALE_red.png)
+![大风](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/GALE_red.png)
 
 ### 沙尘暴
 
-![沙尘暴](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/SANDSTORM_red.png)
+![沙尘暴](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/SANDSTORM_red.png)
 
 ### 高温
 
-![高温](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HEATWAVE_red.png)
+![高温](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HEATWAVE_red.png)
 
 ### 雷电
 
-![雷电](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/LIGHTNING_red.png)
+![雷电](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/LIGHTNING_red.png)
 
 ### 冰雹
 
-![冰雹](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HAIL_red.png)
+![冰雹](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HAIL_red.png)
 
 ### 大雾
 
-![大雾](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HEAVYFOG_red.png)
+![大雾](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/HEAVYFOG_red.png)
 
 ### 道路结冰
 
-![道路结冰](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/ROADICING_red.png)
+![道路结冰](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/ROADICING_red.png)
 
 ### 台风
 
-![台风](https://raw.githubusercontent.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/TYPHOON_red.png)
+![台风](https://rawgithub.com/shevawen/Emergent-Meteorological-Disaster-Warning-Sgnal-Icon/master/set1/png/TYPHOON_red.png)
 
 
 ## 关于图标设计
