@@ -1,4 +1,4 @@
-# Emergent-Meteorological-Disaster-Warning-Sgnal-Icon
+# Severe Weather Signs
 An icon set follows Google Material Design Guidelines. An unoffical version of the CMA's icon set.
 
 See http://www.cma.gov.cn/2011zwxx/2011zflfg/2011zgfxwj/201110/t20111027_134927.html
