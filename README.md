@@ -80,6 +80,7 @@ npm install phantomjs -g
 
 ## Todos
 
-* [ ] convert text to path and add alt
+* [ ] convert text to path with alt.
+* [ ] improve accessiable follow http://www.sitepoint.com/tips-accessible-svg/
 
 Working in progress.
