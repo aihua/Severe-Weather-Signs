@@ -78,4 +78,8 @@ npm install phantomjs -g
 
 [Medium/phantomjs](https://github.com/Medium/phantomjs)
 
+## Todos
+
+* [ ] convert text to path and add alt
+
 Working in progress.
