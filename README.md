@@ -82,5 +82,6 @@ npm install phantomjs -g
 
 * [ ] convert text to path with alt.
 * [ ] improve accessiable follow http://www.sitepoint.com/tips-accessible-svg/
+* [ ] rewrite the generator use nodejs follow https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/font-awesome-svg-png.js
 
 Working in progress.
