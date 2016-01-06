@@ -48,7 +48,7 @@
         "colors": ["red", "orange", "yellow", "blue"]
     }, {
         "weather": "道路结冰",
-        "weather_en": "ROAD ICING",
+        "weather_en": "ROAD ICING(SLEEKNESS)",
         "colors": ["red", "orange", "yellow"]
     }, {
         "weather": "沙尘暴",
